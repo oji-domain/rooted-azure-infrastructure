@@ -1,0 +1,8 @@
+Environment: Development
+Cloud: Microsoft Azure
+Region Strategy: Cost-conscious initial deployment
+Network Segmentation: Enabled
+Identity Boundary: Defined
+Monitoring: Required
+Backup: Required
+Infrastructure Documentation: Version controlled
