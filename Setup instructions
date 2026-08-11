@@ -1,0 +1,31 @@
+Organize repository:
+
+rooted-azure-infrastructure/
+├── README.md
+├── architecture/
+│   ├── high-level-architecture.md
+│   ├── network-design.md
+│   └── identity-design.md
+├── azure/
+│   ├── resource-groups.md
+│   ├── networking.md
+│   ├── compute.md
+│   ├── storage.md
+│   └── monitoring.md
+├── security/
+├── deployment/
+├── cost-management/
+├── screenshots/
+└── decisions/
+
+Document engineering decisions using:
+
+Requirement
+Options Considered
+Selected Approach
+Reason
+Benefits
+Tradeoffs
+Security Impact
+Cost Impact
+Future Scaling
