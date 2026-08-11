@@ -1,0 +1,9 @@
+Publish:
+
+01-high-level-architecture.png
+02-resource-group-layout.png
+03-network-design.png
+04-devops-work-item-sanitized.png
+05-application-flow.png
+
+Remove sensitive IDs and secrets.
