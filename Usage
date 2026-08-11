@@ -1,0 +1,19 @@
+Example decision record:
+
+Hosting Decision
+
+Requirement:
+
+Host Rooted application components in Azure.
+
+Evaluation areas:
+
+Development complexity
+Cost
+Operational overhead
+Scaling
+Monitoring
+Security
+Deployment process
+
+Document why a particular Azure service was selected instead of simply showing that it was created.
