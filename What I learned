@@ -1,0 +1,3 @@
+Startup infrastructure requires engineering tradeoffs.
+
+The best architecture is not necessarily the architecture with the largest number of services. It is the architecture that satisfies current application requirements while leaving a controlled path for growth.
