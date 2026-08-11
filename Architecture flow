@@ -1,0 +1,19 @@
+Example conceptual design:
+
+Users
+  |
+HTTPS
+  |
+Application Entry Point
+  |
+Azure Application Layer
+  |
++----------------+----------------+
+|                |                |
+Identity       Backend          Media
+|                |                |
+Entra        Application       Storage
+                 |
+              Database
+                 |
+            Monitoring
