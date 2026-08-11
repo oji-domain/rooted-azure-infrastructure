@@ -1,0 +1,9 @@
+Create architecture incident runbooks:
+
+Application unavailable
+Database connectivity failure
+Authentication failure
+Storage failure
+DNS failure
+Deployment failure
+Network Security Group blocking traffic
